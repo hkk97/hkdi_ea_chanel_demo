@@ -28,7 +28,7 @@ dependencies:
   assets_audio_player: 3.0.6
   assets_audio_player_web: 3.0.6
   auto_size_text: 3.0.0
-  cached_network_image: 3.2.1
+  cached_network_image: ^3.2.3
   carousel_slider: ^4.2.1
   chewie: 1.7.1
   dropdown_button2: 2.3.9
