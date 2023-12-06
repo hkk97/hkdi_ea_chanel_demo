@@ -1,0 +1,52 @@
+{
+    "name": "CHANEL_V2",
+    "short_name": "CHANEL_V2",
+    "start_url": "https://github.com/hkk97/hkdi_ea_chanel_demo/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "description": "CHANEL_V2",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/48.png",
+            "sizes": "48x48",
+            "type": "image/ico"
+        },
+        {
+            "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "CHANEL_V2",
+            "description": "CHANEL_V2",
+            "url": "https://github.com/hkk97/hkdi_ea_chanel_demo/",
+            "icons": [
+                {
+                    "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/48.png",
+                    "sizes": "48x48",
+                    "type": "image/ico"
+                },
+                {
+                    "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/16.png",
+                    "sizes": "16x16",
+                    "type": "image/png"
+                },
+                {
+                    "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/32.png",
+                    "sizes": "32x32",
+                    "type": "image/png"
+                }
+            ]
+        }
+    ]
+}
