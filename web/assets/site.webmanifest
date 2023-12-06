@@ -10,17 +10,17 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/48.png",
+            "src": "https://hkk97.github.io/hkdi_ea_chanel_demo/icons/48.png",
             "sizes": "48x48",
-            "type": "image/ico"
+            "type": "image/png"
         },
         {
-            "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/16.png",
+            "src": "https://hkk97.github.io/hkdi_ea_chanel_demo/icons/16.png",
             "sizes": "16x16",
             "type": "image/png"
         },
         {
-            "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/32.png",
+            "src": "https://hkk97.github.io/hkdi_ea_chanel_demo/icons/32.png",
             "sizes": "32x32",
             "type": "image/png"
         }
@@ -32,17 +32,17 @@
             "url": "https://github.com/hkk97/hkdi_ea_chanel_demo/",
             "icons": [
                 {
-                    "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/48.png",
+                    "src": "https://hkk97.github.io/hkdi_ea_chanel_demo/icons/48.png",
                     "sizes": "48x48",
                     "type": "image/ico"
                 },
                 {
-                    "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/16.png",
+                    "src": "https://hkk97.github.io/hkdi_ea_chanel_demo/icons/16.png",
                     "sizes": "16x16",
                     "type": "image/png"
                 },
                 {
-                    "src": "https://github.com/hkk97/hkdi_ea_chanel_demo/icons/32.png",
+                    "src": "https://hkk97.github.io/hkdi_ea_chanel_demo/icons/32.png",
                     "sizes": "32x32",
                     "type": "image/png"
                 }
